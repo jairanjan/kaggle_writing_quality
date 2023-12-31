@@ -1,1 +1,0 @@
-this repository contains code in html and pdf format for a kaggle compatition
