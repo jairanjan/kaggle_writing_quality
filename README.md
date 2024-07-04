@@ -2,7 +2,7 @@
 
 - Contains the converted html and pdf version of the code
 
-- The code itself contains:
+- The analysis:
       -  basic eda
       -  Lightgbm model
       -  Shap explanation of feature importance
